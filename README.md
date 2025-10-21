@@ -3,4 +3,3 @@
 
 ## Div3 Solutions
 - [2162C-Beautiful XOR](Div3/2162C-Beautiful%20XOR.md)
-- [Other Problem Solutions](Div3/)
