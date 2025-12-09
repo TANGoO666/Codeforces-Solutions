@@ -3,6 +3,7 @@
 
 ## Div3 Solutions
 - [2162C-Beautiful XOR](Div3/2162C-Beautiful%20XOR.md)
+- [2091C-Combination Lock](Div3/2091C-Combination%20Lock.md)
 
 
 ## 其他题解
