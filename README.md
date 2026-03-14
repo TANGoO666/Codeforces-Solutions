@@ -9,4 +9,4 @@
 ## 其他题解
 
 - [求排列的逆序对](其他题解/求排列的逆序对.md)
-- [D1. Tree Coloring (Easy Version)](其他题解/【树、bfs、出入度】D1.%20Tree%20Coloring%20(Easy%20Version))
+- [D1. Tree Coloring (Easy Version)](其他题解/【树、bfs、出入度】D1.%20Tree%20Coloring%20(Easy%20Version).md)
